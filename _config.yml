@@ -17,6 +17,9 @@ links:
     external:     true
   - name:         Linkedin
     url:          https://www.linkedin.com/in/charukiewicz
+  - name:         Twitter
+    url:          https://www.twitter.com/charukiewicz
+    external:     true
   - name:         Resume
     url:          /files/charukiewicz_resume.pdf
 highlighter:      pygments
