@@ -3,8 +3,8 @@ description:      A personal website.
 url:              http://charukiewicz.com
 signoff:          # Your name.
 disqus_shortname: charukiewicz
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+facebook_appid:   340993159382119
+google_analytics: UA-52843414-1
 
 links:
   - name:         About
