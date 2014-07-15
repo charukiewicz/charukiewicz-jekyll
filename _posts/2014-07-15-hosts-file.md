@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why I Stopped Using Adblock - The Magic of the hosts file
-share: y
 disqus: y
 ---
 
