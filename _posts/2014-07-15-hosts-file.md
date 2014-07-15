@@ -45,9 +45,9 @@ we tell our computer to take us to 127.0.0.1 instead of reddit everytime we ente
 
 Fortunately, there are kind people on the internet that have compile pre-existing hosts files filled with thousands of malicious and ad-serving domains.  The first site I found is [http://winhelp2002.mvps.org/hosts.htm](http://winhelp2002.mvps.org/hosts.htm), which includes not only a hosts file in both .zip and .txt form, but a great explanation of how the hosts file works and various types of domains to block.  The second is [http://someonewhocares.org/hosts/](http://someonewhocares.org/hosts/), which also offers a great description as well as instructions of how to update the hosts file on your PC.
 
-### Lets automate using bash
+### *nix: Lets automate using bash
 
-I would like to take it a step further and write a short Linux bash script to automatically update our hosts files using the hosts files provided by both of these sites.  Ideally, every time we run the script we want to grab the most updated versions of each site's hosts file, so we have the most up-to-date version of a list of malicious and ad-serving domains.
+I would like to take it a step further and write a short bash script to automatically update our hosts files using the hosts files provided by both of these sites.  This will be written to work on Linux, but should probably work on OSX as well.  Ideally, every time we run the script we want to grab the most updated versions of each site's hosts file, so we have the most up-to-date version of a list of malicious and ad-serving domains.
 
 So, the features we want in our script are:
 
@@ -105,4 +105,8 @@ sudo sh hosts-update.sh
 
 The first line will change to the Downloads directory of your home folder.  The second line will actually execute the script.  You will be prompted to enter your UNIX password to give yourself the root priviledges mentioned above.
 
-Enjoy your Adblock alternative that takes absolutely zero system resources.  You will see empty boxes where ads would be on certain websites, or the ads should just be gone all together.  Feel free to contact me with any questions. [@charukiewicz](https://www.twitter.com/charukiewicz/)
+Windows users, unfortunately you will have to do this manually.  Instructions on how to update the Windows hosts file are on both of the hosts file sites I linked above.
+
+Android users, if you have rooted your phone you have an option like this as well.  There is an app on F-Droid called [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), which does exactly what we did here.  Installing the app and giving it root permissions will then automatically update your **/system/etc/hosts** file with its own proprietary list of ad-serving domains.
+
+With that, enjoy your Adblock alternative that takes absolutely zero system resources.  You will see empty boxes where ads would be on certain websites, or the ads should just be gone all together.  Feel free to contact me with any questions. [@charukiewicz](https://www.twitter.com/charukiewicz/)

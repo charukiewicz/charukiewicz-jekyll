@@ -20,7 +20,7 @@ links:
   - name:         Twitter
     url:          https://www.twitter.com/charukiewicz
     external:     true
-  - name:         Resume
+  - name:         Résumé
     url:          /files/charukiewicz_resume.pdf
 highlighter:      pygments
 permalink:        pretty
