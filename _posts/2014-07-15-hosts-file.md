@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Why I Stopped Using Adblock - The Magic of the hosts file
+title: Replacing Adblock Plus - An alternative older than the Internet itself
 disqus: y
 ---
 
 ### The Reign of Adblock Plus
 
-I've been using Adblock Plus since 2006, the year it was released for Firefox.  This was two years before Google Chrome was even released.  For anyone who was even slightly technologically savvy, the advent of Adblock Plus had a huge impact on the future of web browsing.  It changed the playing field and gave people a huge reason to migrate to Firefox and away from Internet Explorer.  Between addons (specifically Adblock Plus), and tabbed browsing, Firefox was a big deal.
+I started using Adblock Plus in 2006, the year it was released for Mozilla Firefox.  This was two years before Google Chrome was even released.  For anyone who was even slightly technologically savvy, the advent of Adblock Plus had a huge impact on the future of web browsing.  It changed the playing field and gave people a huge reason to migrate to Firefox and away from Internet Explorer.  Between addons (specifically Adblock Plus), and tabbed browsing, Firefox was a big deal.
 
 In 2011, I encountered an issue with Firefox where it simply refused to open on my Windows machine.  Even a reinstall wouldn't fix whatever problem I had at the time, so I migrated to Google Chrome.  I've been using Chrome ever since.  What came with me, however, was Adblock Plus.
 
@@ -93,7 +93,7 @@ rm hosts-swc
 echo "Completed!"
 {% endhighlight %}
 
-You can download the script [here](/files/hosts-update.sh).  I encourage you to open it after downloading it to confirm it is exactly what I have in the box above.  You will need to run the script with root permissions using the *sudo* command because the entire **/etc/** directory is read only.
+You can download the script [here](/files/code/hosts-update.sh).  I encourage you to open it after downloading it to confirm it is exactly what I have in the box above.  You will need to run the script with root permissions by prefixing with the **sudo** command because the entire **/etc/** directory is read only.
 
 If you are a new Linux user (or an old, forgetful, Linux user) attempting to run this script for the first time, open a terminal and type the following commands:
 

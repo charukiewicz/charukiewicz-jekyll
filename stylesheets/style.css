@@ -76,7 +76,8 @@ blockquote {
   font-style: normal !important; }
 
 header {
-  text-align: center; }
+  text-align: center;
+  font-weight: bold; }
 
 footer {
   width: 100%;
@@ -94,7 +95,7 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
@@ -239,7 +240,7 @@ ul.posts .datetime {
 
 section.post {
   margin: 0 -60px;
-  text-align: left;
+  text-align: justify;
   border-top: 0;
   padding: 0; }
   section.post > * {
