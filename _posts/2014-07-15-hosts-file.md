@@ -93,7 +93,7 @@ rm hosts-swc
 echo "Completed!"
 {% endhighlight %}
 
-You can download the script [here](/files/code/hosts-update.sh).  I encourage you to open it after downloading it to confirm it is exactly what I have in the box above.  You will need to run the script with root permissions by prefixing with the **sudo** command because the entire **/etc/** directory is read only.
+You can download the script [here](/files/code/hosts-update.sh) or view the same file on [GitHub](https://github.com/charukiewicz/scripts/blob/master/hosts-update.sh).  I encourage you to open it in a text editor after downloading it to confirm it is exactly what I have in the box above.  You will need to run the script with root permissions by prefixing with the **sudo** command because the entire **/etc/** directory is read only.
 
 If you are a new Linux user (or an old, forgetful, Linux user) attempting to run this script for the first time, open a terminal and type the following commands:
 
@@ -103,10 +103,12 @@ cd ~/Downloads
 sudo sh hosts-update.sh
 ```
 
-The first line will change to the Downloads directory of your home folder.  The second line will actually execute the script.  You will be prompted to enter your UNIX password to give yourself the root priviledges mentioned above.
+The first line will change to the Downloads directory of your home folder.  The second line will actually execute the script.  The first line is not necessary if you know what you are doing and/or have moved the script to a different directory.  You will be prompted to enter your UNIX password to give yourself the root priviledges mentioned above.
 
-Windows users, unfortunately you will have to do this manually.  Instructions on how to update the Windows hosts file are on both of the hosts file sites I linked above.
+Windows users, unfortunately you will have to do this process manually.  You will need to download the contents of both hosts files and open up the one on your computer in a text editor, and then paste both inside.  Once again, **do not overwrite the original hosts file content**.  Also, do not open long files in regular Notepad.  It will crash.  Use [Sublime](http://www.sublimetext.com/) or [Notepad++](http://notepad-plus-plus.org/).  Detailed instructions on how to update the Windows hosts file are on both of the hosts file sites I linked above.
 
 Android users, if you have rooted your phone you have an option like this as well.  There is an app on F-Droid called [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway), which does exactly what we did here.  Installing the app and giving it root permissions will then automatically update your **/system/etc/hosts** file with its own proprietary list of ad-serving domains.
+
+ChromeOS users, unfortunately there are no good options for ChromeOS.  First of all, editing the file even using sudo does not work.  There is a workaround method, however every time ChromeOS updates the hosts file will be reset.
 
 With that, enjoy your Adblock alternative that takes absolutely zero system resources.  You will see empty boxes where ads would be on certain websites, or the ads should just be gone all together.  Feel free to contact me with any questions. [@charukiewicz](https://www.twitter.com/charukiewicz/)
