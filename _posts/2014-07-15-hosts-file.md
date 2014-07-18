@@ -45,18 +45,18 @@ we tell our computer to take us to 127.0.0.1 instead of reddit everytime we ente
 
 Fortunately, there are kind people on the internet that have compile pre-existing hosts files filled with thousands of malicious and ad-serving domains.  The first site I found is [http://winhelp2002.mvps.org/hosts.htm](http://winhelp2002.mvps.org/hosts.htm), which includes not only a hosts file in both .zip and .txt form, but a great explanation of how the hosts file works and various types of domains to block.  The second is [http://someonewhocares.org/hosts/](http://someonewhocares.org/hosts/), which also offers a great description as well as instructions of how to update the hosts file on your PC.
 
-### *nix: Lets automate using bash
+### Time for some automation
 
-I would like to take it a step further and write a short bash script to automatically update our hosts files using the hosts files provided by both of these sites.  This will be written to work on Linux, but should probably work on OSX as well.  Ideally, every time we run the script we want to grab the most updated versions of each site's hosts file, so we have the most up-to-date version of a list of malicious and ad-serving domains.
+I would like to take it a step further and write a short bash script to automatically update our hosts file using the hosts files provided by both of these sites.  This will be written to work on Linux, but should probably work on OSX as well.  Ideally, every time we run the script we want to grab the most updated versions of each site's hosts file, so we have the most up-to-date version of a list of malicious and ad-serving domains.
 
-So, the features we want in our script are:
+So, the algorithm we want to perform will be something like this:
 
-* Make a copy of our original hosts file as a backup
-* Download the hosts file from mvps.org
-* Append (**not** overwrite) it to our existing hosts file
-* Download the hosts file from someonwhocares.org
-* Append (**not** overwrite) it to our hosts file
-* Delete the temporary files we downloaded from both sites
+1. Make a copy of our original hosts file as a backup (**only** if this is our first time running the script)
+2. Download the pre-loaded hosts file from mvps.org
+3. Append (**not** overwrite) it to our existing hosts file
+4. Download the pre-loaded hosts file from someonewhocares.org
+5. Append (**not** overwrite) it to our hosts file
+6. Delete the files we downloaded from both sites, as we do not need them anymore
 
 In addition to this, if we run our script a second time or any additional time, instead of making a copy of the current hosts file, we want to overwrite our primary hosts file with the copy we took we ran the first time.  This is so that we are starting with a clean hosts file every time we run the script, and not adding tens of thousands of redundant lines.
 
