@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replacing Adblock Plus - An alternative older than the Internet itself
+title: Replacing Adblock Plus - An Alternative Older than the Internet Itself
 disqus: y
 ---
 
