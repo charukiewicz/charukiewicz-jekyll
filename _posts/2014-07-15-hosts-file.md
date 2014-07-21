@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replacing Adblock Plus - An Alternative Older than the Internet Itself
+title: Replacing Adblock Plus with the hosts file
 disqus: y
 ---
 
