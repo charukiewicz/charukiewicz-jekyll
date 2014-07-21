@@ -18,7 +18,7 @@ title: Résumé
 **Roompact** (May 2014 - Current)<br>
 *Software Development Intern*
 
-* Built application features with CakePHP, MySQL backend and HTML5, JQuery, AJAX front end.
+* Built application features with CakePHP, MySQL backend and HTML5, JQuery, AJAX frontend.
 * Configured and maintained Linux servers.  Automated server tasks through bash and cronjobs.
 * Ensured application and server was built using defensive design (robust application behavior, data storage, and server behavior).
 * Developed and implemented distributed process notification system with queue server and worker processes.
