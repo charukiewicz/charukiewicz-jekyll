@@ -15,18 +15,26 @@ title: Résumé
 
 ## Work Experience
 
-### Roompact - *Software Development Intern* (May 2014 - Current)
+**Roompact** (May 2014 - Current)<br>
+*Software Development Intern*
 
-* Built web application features in CakePHP, MySQL back end and HTML5, JQuery, AJAX front end.
-* Configured and maintained Linux servers.  Automated server tasks, created application failsafe behavior, tested server
+* Built application features with CakePHP, MySQL backend and HTML5, JQuery, AJAX front end.
+* Configured and maintained Linux servers.  Automated server tasks through bash and cronjobs.
+* Ensured application and server was built using defensive design (robust application behavior, data storage, and server behavior).
+* Developed and implemented distributed process notification system with queue server and worker processes.
+* Performed load testing on the application and server, identified network bottlenecks.
+* Developed and implemented data mining algorithms to collect user data.
+* Researched and developed methods of user incentivization.
 
-### **Illini Emergency Medical Services** - *EMT-Basic* (Sept 2012 - Current)
+**Illini Emergency Medical Services** (Sept 2012 - Current)<br>
+*EMT-Basic*
 
 * Worked with and led teams of EMS providers at designated events.
 * Provided pre-hospital basic life support to patients.
 * Coordinated with other agencies (Police, Fire, EMS) to ensure coverage of large events.
 
-### **Next Generation Gaming, LLC** - *Director of Community Experience* (Oct 2012 - Nov 2013)
+**Next Generation Gaming, LLC** (Oct 2012 - Nov 2013)<br>
+*Director of Community Experience*
 
 * Leader & Project Manager of software development staff, software testing staff, and customer relations staff at startup gaming company.
 * Planned and assigned projects, held development meetings, wrote technical pecifications, analyzed player data & data trends, determined project costs, analyzed sales, developed marketing strategies, developed new game features and digital sales opportunities.
