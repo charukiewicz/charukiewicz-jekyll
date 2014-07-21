@@ -5,8 +5,8 @@ html, body {
   height: 100%; }
 
 body {
-  background: #f9f9f9;
-  color: #303030;
+  background: #1C1F21;
+  color: #B3B3B3;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 13px;
@@ -108,10 +108,10 @@ footer {
   box-sizing: border-box;
   width: 100%;
   max-width: 800px;
-  background: #fff;
+  background: #262A2C;
   margin: 40px auto 20px;
   border-radius: 7px;
-  border: 1px solid #eee;
+  border: 1px solid #373C3F;
   position: relative; }
   #container:before, #container:after {
     content: " ";
@@ -119,8 +119,8 @@ footer {
   #container:after {
     clear: both; }
   #container .block {
-    border-top: 1px solid #efefef;
-    border-bottom: 1px solid #efefef;
+    border-top: 1px solid #373C3F;
+    border-bottom: 1px solid #373C3F;
     padding: 30px 40px 24px;
     text-align: center; }
     #container .block:first-child, #container .block + .block {
@@ -160,7 +160,7 @@ footer {
 
 a, .as-link {
   text-decoration: none;
-  color: #269;
+  color: #6185A0;
   line-height: 1.4em;
   display: inline-block;
   vertical-align: baseline;
@@ -172,9 +172,12 @@ a, .as-link {
   -ms-transition: color 0.3s;
   -o-transition: color 0.3s;
   transition: color 0.3s; }
-  a.main, a:hover, .as-link.main, .as-link:hover {
-    color: #1d5884;
-    background-image: url(/images/line.png);
+  a.main, .as-link.main {
+  	color: #6185A0;
+  }
+  a:hover, .as-link:hover {
+    color: #D6D6D6;
+    /*background-image: url(/images/line.png);*/
     background-repeat: repeat-x;
     background-position: left bottom; }
   a.big-button, .as-link.big-button {
@@ -228,7 +231,7 @@ a, .as-link {
 
 hr {
   border: 0;
-  border-bottom: 1px dotted #CCC;
+  border-bottom: 1px dotted #373C3F;
   margin: 25px 0; }
 
 ul.posts, ul.posts li {
@@ -292,7 +295,7 @@ section.post, section > p {
     -o-transition: all, 0.3s;
     transition: all, 0.3s;
     color: #606060;
-    background: #f9f9f9;
+    background: #1C1F21;
     position: relative;
     overflow: hidden;
     display: block;

@@ -7,21 +7,10 @@ facebook_appid:   340993159382119
 google_analytics: UA-52843414-1
 
 links:
-  - name:         Home
+  - name:         Return ↵
     url:          /
-  - name:         About
+  - name:         Info
     url:          /about
-  - name:         Email
-    url:          mailto:c.charukiewicz@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/charukiewicz
-    external:     true
-  - name:         Linkedin
-    url:          https://www.linkedin.com/in/charukiewicz
-  - name:         Twitter
-    url:          https://www.twitter.com/charukiewicz
-    external:     true
   - name:         Résumé
     url:          /resume
 highlighter:      pygments
