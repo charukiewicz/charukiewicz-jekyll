@@ -7,6 +7,8 @@ facebook_appid:   340993159382119
 google_analytics: UA-52843414-1
 
 links:
+  - name:         Home
+    url:          /
   - name:         About
     url:          /about
   - name:         Email
@@ -21,7 +23,7 @@ links:
     url:          https://www.twitter.com/charukiewicz
     external:     true
   - name:         Résumé
-    url:          /files/charukiewicz_resume.pdf
+    url:          /resume
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
