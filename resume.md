@@ -8,8 +8,9 @@ title: Résumé
 ## Personal Data
 
 * **Place and Date of Birth**: United States, 19 October 1991
-* **Email**: c.charukiewicz@gmail.com
+* **Email**: [c.charukiewicz@gmail.com](mailto:c.charukiewicz@gmail.com)
 * **Phone**: 630.464.7644
+* **Location**: Bloomingdale, Illinois
 
 <hr>
 
@@ -20,10 +21,10 @@ title: Résumé
 
 * Built application features with CakePHP, MySQL backend and HTML5, JQuery, AJAX frontend.
 * Configured and maintained Linux servers.  Automated server tasks through bash and cronjobs.
-* Ensured application and server was built using defensive design (robust application behavior, data storage, and server behavior).
-* Developed and implemented distributed process notification system with queue server and worker processes.
+* Implemented defensive design in application, database, and servers.
+* Designed and implemented distributed process notification system with queue server and worker processes.
 * Performed load testing on the application and server, identified network bottlenecks.
-* Developed and implemented data mining algorithms to collect user data.
+* Developed and implemented data mining algorithms to collect user data for subsequent analysis.
 * Researched and developed methods of user incentivization.
 
 **Illini Emergency Medical Services** (Sept 2012 - Current)<br>

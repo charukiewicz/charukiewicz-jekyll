@@ -73,7 +73,7 @@ ol, ol li {
   margin: 0;
   list-style-position: inside;
   text-indent: -1em;
-  margin-left: 2em; }
+  margin-left: 1em; }
 
 ul, ul li {
   padding: 0;
@@ -169,6 +169,11 @@ a, .as-link {
   zoom: 1;
   *display: inline;
   *vertical-align: auto;
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+  text-indent: -1em;
+  margin-left: 1em;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
   -ms-transition: color 0.3s;

@@ -11,7 +11,7 @@ I try to be a generalist in developing my skills.  I am interested in learning a
 
 Contact:
 
-[Email](mailto:c.charukiewicz@gmail.com)<br>
-[GitHub](http://github.com/charukiewicz)<br>
-[Linkedin](https://www.linkedin.com/in/charukiewicz)<br>
-[Twitter](https://www.twitter.com/charukiewicz)
+* [Email](mailto:c.charukiewicz@gmail.com)<br>
+* [GitHub](http://github.com/charukiewicz)<br>
+* [Linkedin](https://www.linkedin.com/in/charukiewicz)<br>
+* [Twitter](https://www.twitter.com/charukiewicz)
