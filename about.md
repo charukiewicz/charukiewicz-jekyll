@@ -7,7 +7,7 @@ My name is Christian.  I work for [Roompact](https://www.roompact.com) and I am 
 
 I am a dedicated Linux user.  I value the flexibility and control that Linux offers me, as a development environment, as a server, and for personal computing.
 
-I try to be a generalist in developing my skills.  I am interested in learning about virtually anything.  I like to know something about everything.
+I tend to be a generalist when developing my skills.  I am always open to diversifying my knowledge and learning new things.  I prefer to be well rounded and knowledgable in an array of different topics rather specializing in just a few.  I am not a dilettante, however.  I do not shy away from commitment towards learning something when doing so is necessary.
 
 Contact:
 
