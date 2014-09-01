@@ -19,29 +19,39 @@ title: Résumé
 **Roompact** (May 2014 - Current)<br>
 *Software Development Intern*
 
-* Built application features with CakePHP, MySQL backend and HTML5, JQuery, AJAX frontend.
-* Configured and maintained Linux servers.  Automated server tasks through bash and cronjobs.
-* Implemented defensive design in application, database, and servers.
-* Designed and implemented distributed process notification system with queue server and worker processes.
-* Performed load testing on the application and server, identified network bottlenecks.
-* Developed and implemented data mining algorithms to collect user data for subsequent analysis.
-* Researched and developed methods of user incentivization.
+* Built application software with CakePHP, MySQL backend and HTML5, JQuery, AJAX frontend
+* Planned and collaborated with colleagues in the development of new application features
+* Suggested major application features which were later implemented and deployed into production
+* Configured and maintained Linux servers; automated server tasks through BASH and cronjobs
+* Implemented defensive design in application code, database configuration, and server behavior to prevent malicious users and attacks
+* Built distributed process notification system capable of sending thousands of emails/text messages per minute
+* Created live information data feed capable of displaying nation-wide user activity in real time
+* Performed load testing on the application and server and analyzed network traffic patterns; identified performance bottlenecks
+* Developed and implemented data mining algorithms to collect user data for subsequent analysis
+* Researched and developed methods of to provide incentives for users; wrote report and presented findings to colleagues and management staff
+* Rapidly adapted to new project requirements to meet clients' needs
 
 **Illini Emergency Medical Services** (Sept 2012 - Current)<br>
 *EMT-Basic*
 
-* Worked with and led teams of EMS providers at designated events.
-* Provided pre-hospital basic life support to patients.
-* Coordinated with other agencies (Police, Fire, EMS) to ensure coverage of large events.
+* Staffed various types of events as on-site EMT
+* Led teams of other EMS providers (typical team size was 2-4 EMS personnel)
+* Provided pre-hospital basic life support to patients
+* Performed equipment checks and recorded equipment inventory
+* Coordinated with other agencies (Police, Fire, EMS) during large events (marathons, football games, etc.) to ensure coverage
 
 **Next Generation Gaming, LLC** (Oct 2012 - Nov 2013)<br>
 *Director of Community Experience*
 
-* Leader & Project Manager of software development staff, software testing staff, and customer relations staff at startup gaming company.
-* Planned and assigned projects, held development meetings, wrote technical pecifications, analyzed player data & data trends, determined project costs, analyzed sales, developed marketing strategies, developed new game features and digital sales opportunities.
-* Implemented a system which streamlined planning, development, testing, release, and public feedback of multiple projects and game updates.
-* Designed and implemented a system which automated and expanded all product sales; removed sales overhead costs and released multiple new categories of products which increased average monthly revenue of the company by 35%.
-* Worked with the PAWN language, MySQL, and PHP.
+* Led a team of 4 software developers (programmers), 10 software testers, and 5 sales staff members
+* Mentored new programmers and software testers
+* Planned and assigned projects, held development meetings, wrote technical specifications, analyzed user data and trends, determined project costs and time requirements, developed new software features and digital sales opportunities
+* Performed quantitative analysis of product sales, used results to develop marketing and sales strategies, instructed sales staff on how to execute sales strategies
+* Surveyed users directly to gauge product response and gather general feedback
+* Implemented a system which streamlined planning, development, testing, release, and public feedback of multiple simultaneous projects and software updates
+* Designed and implemented a system which automated and expanded all product sales; removed sales overhead costs and released multiple new categories of products which increased average monthly revenue of the company by 35%
+* Used personal judgement/experience to interpret open-ended or non-technical project requirements or requests from superiors; produced technical and specific results or software features
+* Worked with the PAWN language, MySQL, and PHP
 
 <hr>
 
