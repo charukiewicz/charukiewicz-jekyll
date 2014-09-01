@@ -67,4 +67,4 @@ EMT-Basic Certification
 
 <hr>
 
-[PDF Version](/files/charukiewicz_resume.pdf) (slightly outdated)
+[PDF Version](/files/charukiewicz_resume.pdf) 
