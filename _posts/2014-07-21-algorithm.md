@@ -16,6 +16,10 @@ This is one of the first things that I was met with when I took his [Algorithms]
 
 Let's try another definition.  The following is my own definition of the word 'algorithm'.  I am going to set aside the rigorous academic requirements for an algorithm and instead focus on what I believe is the very essence of an algorithm, in more simple terms.  My definition is as follows:
 
->An algorithm is a sequence of steps that, when followed, will solve a particular problem.
+>An algorithm is a sequence of steps that, when followed, will complete a specific task.
 
-This definition is an excellent starting point for algorithmic thinking.
+This definition is an excellent starting point for algorithmic thinking.  
+
+### Algorithms Everywhere
+
+I believe that a person can think of many different contexts in terms of algorithms.  These are situations and environments that reach far past a academia or a technical job.
