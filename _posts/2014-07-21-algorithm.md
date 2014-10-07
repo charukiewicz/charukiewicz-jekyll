@@ -22,4 +22,4 @@ This definition is an excellent starting point for algorithmic thinking.
 
 ### Algorithms Everywhere
 
-I believe that a person can think of many different contexts in terms of algorithms.  These are situations and environments that reach far past a academia or a technical job.
+I believe that a person can think of many different contexts in terms of algorithms.  These are situations and environments that reach far past a academia or a technical job.  What I mean by this is that 
