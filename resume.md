@@ -57,7 +57,7 @@ title: Résumé
 
 ## Education
 
-**The Universitiy of Illinois at Urbana-Champaign** *(Expected Graduation: Dec 2014)*<br>
+**Universitiy of Illinois at Urbana-Champaign** *(Expected Graduation: Dec 2014)*<br>
 B.Sc. in Mathematics & Computer Science and Philosophy *(Double Major)*
 
 **Coursework**: Calculus, Discrete Mathematics, Statistics, Linear Algebra, Real Analysis, Graph Theory, Data Structures, System Programming, Computer Architecture, Programming Languages & Compilers, Numerical Methods, Numerical Analysis, Computational Theory, Fundamental Algorithms, Symbolic Logic, Ancient & Early Modern Philosophy, Value Theory, Metaphysics, Ethical Theories, Epistemology
