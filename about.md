@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: About Me
 ---
 
 My name is Christian.  I am a Senior at the University of Illinois at Urbana-Champaign.  My areas of study include Computer Science, Mathematics, and Philosphy.  I enjoy developing algorithms and solving complex problems.  I always try to pay extreme attention to detail.
