@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything is an Algorithm
+title: Everything Can Be An Algorithm
 disqus: y
 ---
 

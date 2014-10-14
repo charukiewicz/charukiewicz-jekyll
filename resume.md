@@ -16,7 +16,7 @@ title: Résumé
 
 ## Work Experience
 
-**Roompact** (May 2014 - Current)<br>
+**Roompact** (May 2014 - Aug 2014)<br>
 *Software Development Intern*
 
 * Built application software with CakePHP, MySQL backend and HTML5, JQuery, AJAX frontend
@@ -31,7 +31,7 @@ title: Résumé
 * Researched and developed methods of to provide incentives for users; wrote report and presented findings to colleagues and management staff
 * Rapidly adapted to new project requirements to meet clients' needs
 
-**Illini Emergency Medical Services** (Sept 2012 - Current)<br>
+**Illini Emergency Medical Services** (Sept 2012 - May 2014)<br>
 *EMT-Basic*
 
 * Staffed various types of events as on-site EMT
