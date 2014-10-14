@@ -1,4 +1,4 @@
-A Website
+Christian Charukiewicz
 ========
 
 My personal website.  Powered by [Jekyll](http://jekyllrb.com/).
