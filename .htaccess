@@ -1,4 +1,4 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteRule    ^start/?$    start.html    [NC,L]
+    RewriteRule    ^start\/?$    start.html    [NC,L]
 </IfModule>
