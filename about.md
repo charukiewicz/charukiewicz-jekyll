@@ -13,3 +13,4 @@ Contact:
 * [GitHub](http://github.com/charukiewicz)
 * [Linkedin](https://www.linkedin.com/in/charukiewicz)
 * [Twitter](https://www.twitter.com/charukiewicz)
+* [Google+](https://plus.google.com/+ChristianCharukiewicz/)

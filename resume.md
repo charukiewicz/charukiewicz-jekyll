@@ -16,6 +16,12 @@ title: Résumé
 
 ## Work Experience
 
+**Roompact** (Jan 2015 - Present)<br>
+*Software Engineer*
+
+* Designed, built, tested, deployed, and maintained complex application features using various web technologies
+* Technologies include Linux, MySQL, CakePHP, JavaScript, jQuery, AJAX, HTML5, CSS3
+
 **Roompact** (May 2014 - Aug 2014)<br>
 *Software Development Intern*
 
