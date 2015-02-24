@@ -7,7 +7,6 @@ title: Résumé
 
 ## Personal Data
 
-* **Place and Date of Birth**: United States, 19 October 1991
 * **Email**: [c.charukiewicz@gmail.com](mailto:c.charukiewicz@gmail.com)
 * **Phone**: 630.464.7644
 * **Location**: Bloomingdale, Illinois
