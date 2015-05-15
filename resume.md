@@ -9,7 +9,7 @@ title: Résumé
 
 * **Email**: [c.charukiewicz@gmail.com](mailto:c.charukiewicz@gmail.com)
 * **Phone**: 630.464.7644
-* **Location**: Bloomingdale, Illinois
+* **Location**: Greater Chicago Area, Illinois
 
 <hr>
 
@@ -82,4 +82,4 @@ EMT-Basic Certification
 
 <hr>
 
-[PDF Version](https://github.com/charukiewicz/charukiewicz_resume/raw/master/charukiewicz_resume.pdf) 
+[PDF Version](https://github.com/charukiewicz/resume/raw/master/charukiewicz_resume.pdf) 
